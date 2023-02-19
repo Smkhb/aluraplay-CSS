@@ -11,7 +11,13 @@
    display: none;
 }
 
-/* Superior Secao */
+.menu__container{
+   position: fixed;
+   bottom: 0%;
+   height: 74px;
+   width: 100%;
+}
+/* SUPERIOR SECAO */
 .superior__secao__container {
    display: flex;
    align-items: center;
