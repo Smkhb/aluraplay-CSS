@@ -98,6 +98,27 @@
       padding: 20px 17px 20px 25px;
       gap: 15px;
    }
+
+   .menu__lista:nth-child(3) {
+      flex-direction: column-reverse;
+   }
+
+   /* .jogos {
+      order: 3;
+   }
+
+   .filmes {
+      order: 2;
+   }
+
+   .premium {
+      order: 1;
+   }
+
+   .maispagina {
+      orphans: 4;
+   } */
+
    .menu__lista:nth-child(2),
    .menu__lista:nth-child(3),
    .menu__lista:nth-child(4) {
